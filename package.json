@@ -1,0 +1,10 @@
+{
+  "description": "Elixir Surface language support for Atom.",
+  "engines": {
+    "atom": ">= 0.189.0"
+  },
+  "license": "Apache 2.0",
+  "name": "language-elixir-surface",
+  "repository": "",
+  "version": "0.0.1"
+}
