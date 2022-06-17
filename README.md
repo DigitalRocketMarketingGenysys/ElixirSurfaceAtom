@@ -5,9 +5,8 @@ This is Atom Language Support for the Surface Library. The CSON Language files h
 This is used in conjunction with `language-elixir`
 
 
-# Installation
-** Linux **
-- cd ~/.atom/packages
-- git clone https://github.com/DigitalRocketMarketingGenysys/ElixirSurfaceAtom.git
-- cd ElixirSurfaceAtom
-- yarn install
+# Linux Installation
+- `cd ~/.atom/packages`
+- `git clone https://github.com/DigitalRocketMarketingGenysys/ElixirSurfaceAtom.git`
+- `cd ElixirSurfaceAtom`
+- `yarn install`
