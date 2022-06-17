@@ -5,6 +5,6 @@
   },
   "license": "Apache 2.0",
   "name": "language-elixir-surface",
-  "repository": "",
+  "repository": "https://github.com/DigitalRocketMarketingGenysys/ElixirSurfaceAtom.git",
   "version": "0.0.1"
 }
